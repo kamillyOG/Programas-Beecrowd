@@ -1,0 +1,48 @@
+C:\Users\kamil\Desktop\Nova pasta\teste1\bin\Debug\net5.0\teste1.exe
+C:\Users\kamil\Desktop\Nova pasta\teste1\bin\Debug\net5.0\teste1.deps.json
+C:\Users\kamil\Desktop\Nova pasta\teste1\bin\Debug\net5.0\teste1.runtimeconfig.json
+C:\Users\kamil\Desktop\Nova pasta\teste1\bin\Debug\net5.0\teste1.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Nova pasta\teste1\bin\Debug\net5.0\teste1.dll
+C:\Users\kamil\Desktop\Nova pasta\teste1\bin\Debug\net5.0\ref\teste1.dll
+C:\Users\kamil\Desktop\Nova pasta\teste1\bin\Debug\net5.0\teste1.pdb
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\teste1.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\teste1.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\teste1.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\teste1.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\teste1.dll
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\ref\teste1.dll
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\teste1.pdb
+C:\Users\kamil\Desktop\Nova pasta\teste1\obj\Debug\net5.0\teste1.genruntimeconfig.cache
+C:\Users\kamil\Desktop\Al\teste1\bin\Debug\net5.0\teste1.exe
+C:\Users\kamil\Desktop\Al\teste1\bin\Debug\net5.0\teste1.deps.json
+C:\Users\kamil\Desktop\Al\teste1\bin\Debug\net5.0\teste1.runtimeconfig.json
+C:\Users\kamil\Desktop\Al\teste1\bin\Debug\net5.0\teste1.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Al\teste1\bin\Debug\net5.0\teste1.dll
+C:\Users\kamil\Desktop\Al\teste1\bin\Debug\net5.0\ref\teste1.dll
+C:\Users\kamil\Desktop\Al\teste1\bin\Debug\net5.0\teste1.pdb
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\teste1.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\teste1.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\teste1.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\teste1.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\teste1.dll
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\ref\teste1.dll
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\teste1.pdb
+C:\Users\kamil\Desktop\Al\teste1\obj\Debug\net5.0\teste1.genruntimeconfig.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\bin\Debug\net5.0\teste1.exe
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\bin\Debug\net5.0\teste1.deps.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\bin\Debug\net5.0\teste1.runtimeconfig.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\bin\Debug\net5.0\teste1.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\bin\Debug\net5.0\teste1.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\bin\Debug\net5.0\ref\teste1.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\bin\Debug\net5.0\teste1.pdb
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\teste1.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\teste1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\teste1.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\teste1.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\teste1.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\teste1.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\ref\teste1.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\teste1.pdb
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\teste1\obj\Debug\net5.0\teste1.genruntimeconfig.cache

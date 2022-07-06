@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\bin\Debug\net5.0\multiplos.exe
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\bin\Debug\net5.0\multiplos.deps.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\bin\Debug\net5.0\multiplos.runtimeconfig.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\bin\Debug\net5.0\multiplos.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\bin\Debug\net5.0\multiplos.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\bin\Debug\net5.0\ref\multiplos.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\bin\Debug\net5.0\multiplos.pdb
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\multiplos.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\multiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\multiplos.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\multiplos.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\multiplos.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\multiplos.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\ref\multiplos.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\multiplos.pdb
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\multiplos\obj\Debug\net5.0\multiplos.genruntimeconfig.cache

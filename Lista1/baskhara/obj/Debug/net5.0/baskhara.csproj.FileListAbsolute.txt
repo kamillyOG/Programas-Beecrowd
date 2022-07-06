@@ -1,0 +1,16 @@
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\bin\Debug\net5.0\baskhara.exe
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\bin\Debug\net5.0\baskhara.deps.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\bin\Debug\net5.0\baskhara.runtimeconfig.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\bin\Debug\net5.0\baskhara.runtimeconfig.dev.json
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\bin\Debug\net5.0\baskhara.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\bin\Debug\net5.0\ref\baskhara.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\bin\Debug\net5.0\baskhara.pdb
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\baskhara.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\baskhara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\baskhara.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\baskhara.AssemblyInfo.cs
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\baskhara.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\baskhara.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\ref\baskhara.dll
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\baskhara.pdb
+C:\Users\kamil\Desktop\Faculdade\Atv Beecrowd\baskhara\obj\Debug\net5.0\baskhara.genruntimeconfig.cache
